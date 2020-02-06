@@ -1,4 +1,9 @@
-﻿using System;
+﻿/*
+ * Author: Nick Zaccaro
+ * Date: 02/06/2020
+ * Description: This program asks the user for a name and responds with a greeted message.
+ */
+using System;
 
 namespace Methods
 {
